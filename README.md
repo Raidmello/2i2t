@@ -1,2 +1,2 @@
-# Aulas do Segundo Trimestre
-Raul Francisco de Mello Martins - 30
+Aulas do segundo trimestre
+Nome:michelangelo Numero: 26
