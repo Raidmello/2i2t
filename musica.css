@@ -118,6 +118,7 @@ ul{
 .definicao{
     width: 100vw;
     padding: 5px;
+    color: white;
 }
 .img-definicao {
     display: none;
