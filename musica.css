@@ -27,6 +27,10 @@ ul{
     top: 0;
 
 }
+.info{
+   grid-template-columns: 50% 50%;
+   grid-template-areas: "item" "item";
+}
 .logo{
     display: inline-block;
    color: var(--fundo);
@@ -120,6 +124,13 @@ ul{
     padding: 5px;
     color: white;
 }
+div[class^="item-"]{
+    background-color: rgb(255, 0, 195);
+    margin-top: 2px;
+    height: 300px;
+    grid-area: 2px;
+}
+
 .img-definicao {
     display: none;
 }
